@@ -33,7 +33,7 @@
     "@brandingbrand/fsproductdetail": "^7.8.0",
     "@brandingbrand/fsproductindex": "^7.8.0",
     "@brandingbrand/fssalesforce": "^7.8.0",
-    "@brandingbrand/fsturnto": "^7.8.0",
+    "@brandingbrand/fsturnto": "^7.9.0",
     "@brandingbrand/fsups": "^7.8.0",
     "jsc-android": "241213.x.x",
     "react": "16.8.3",
