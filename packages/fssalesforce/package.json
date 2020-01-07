@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@brandingbrand/fscommerce": "^7.8.0",
-    "@brandingbrand/fsfoundation": "^7.8.0",
+    "@brandingbrand/fsfoundation": "^7.9.0",
     "@brandingbrand/fsnetwork": "^7.8.0",
     "decimal.js": "^10.0.1",
     "dtsgenerator": "^2.0.7",
