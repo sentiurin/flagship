@@ -11,7 +11,7 @@
     "tsc:watch": "tsc -w --preserveWatchOutput"
   },
   "dependencies": {
-    "@brandingbrand/fsfoundation": "^7.8.0",
+    "@brandingbrand/fsfoundation": "^7.9.0",
     "@brandingbrand/fsnetwork": "^7.8.0",
     "@brandingbrand/react-native-adobe-marketing-cloud": "^0.1.1",
     "@brandingbrand/react-native-google-analytics": "^2.1.0",
